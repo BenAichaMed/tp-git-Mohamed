@@ -1,3 +1,3 @@
-1ere ligne de notes.
+1re ligne de notes.
 Deuxieme ligne de notes.
 Troisième ligne(feature).
